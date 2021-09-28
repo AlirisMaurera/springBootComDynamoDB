@@ -18,7 +18,8 @@ Pré-requisitos:
 
 
 No buscador procurar DynamoDB
-https://github.com/AlirisMaurera/springBootComDynamoDB/blob/master/imagens/image-20210928161011722.png?raw=true
+
+![image-20210928161011722](https://github.com/AlirisMaurera/springBootComDynamoDB/blob/master/imagens/image-20210928161011722.png?raw=true)
 
 ![image-20210928161011722](C:\Users\ti\AppData\Roaming\Typora\typora-user-images\image-20210928161011722.png)
 
