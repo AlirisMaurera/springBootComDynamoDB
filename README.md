@@ -21,29 +21,30 @@ No buscador procurar DynamoDB
 
 ![image-20210928161011722](https://github.com/AlirisMaurera/springBootComDynamoDB/blob/master/imagens/image-20210928161011722.png?raw=true)
 
-![image-20210928161011722](C:\Users\ti\AppData\Roaming\Typora\typora-user-images\image-20210928161011722.png)
+
 
 
 
 Criar uma Tabela com o nome que será utilizada no projeto
 
-![image-20210928161344204](C:\Users\ti\AppData\Roaming\Typora\typora-user-images\image-20210928161344204.png)
+![image-20210928161344204](https://github.com/AlirisMaurera/springBootComDynamoDB/blob/master/imagens/image-20210928161344204.png?raw=true)
 
 
 
 Dar nome da tabela, indicar a chave primaria
 
-![image-20210928161603056](C:\Users\ti\AppData\Roaming\Typora\typora-user-images\image-20210928161603056.png)
+![image-20210928161603056](https://github.com/AlirisMaurera/springBootComDynamoDB/blob/master/imagens/image-20210928161603056.png?raw=true)
 
 
 
 Devemos criar um grupo e um usuário para obter as credencias pra conectar nosso projeto, no buscador procuramos por IAM
 
-![image-20210928161929213](C:\Users\ti\AppData\Roaming\Typora\typora-user-images\image-20210928161929213.png)
+![image-20210928161929213](https://github.com/AlirisMaurera/springBootComDynamoDB/blob/master/imagens/image-20210928161929213.png?raw=true)
+)
 
 
 
-![image-20210928162141851](C:\Users\ti\AppData\Roaming\Typora\typora-user-images\image-20210928162141851.png)
+![image-20210928162141851](https://github.com/AlirisMaurera/springBootComDynamoDB/blob/master/imagens/image-20210928162141851.png?raw=true)
 
 Dá um nome ao grupo e se atribui a permissão AmazonDynamoDBFullAccess e cria o grupo
 
@@ -53,25 +54,25 @@ Dá um nome ao grupo e se atribui a permissão AmazonDynamoDBFullAccess e cria o
 
 logo atribuir um usuário para o grupo criado
 
-![image-20210928162903383](C:\Users\ti\AppData\Roaming\Typora\typora-user-images\image-20210928162903383.png)
+![image-20210928162903383](https://github.com/AlirisMaurera/springBootComDynamoDB/blob/master/imagens/image-20210928162903383.png?raw=true)
 
 
 
 Para este usuário se seleciona chave de acesso: acesso programático
 
-![image-20210928163208111](C:\Users\ti\AppData\Roaming\Typora\typora-user-images\image-20210928163208111.png)
+![image-20210928163208111](https://github.com/AlirisMaurera/springBootComDynamoDB/blob/master/imagens/image-20210928163208111.png?raw=true)
 
 Seleciona o grupo criado, proximo: tags, depois próximo: revisar
 
-![image-20210928163418038](C:\Users\ti\AppData\Roaming\Typora\typora-user-images\image-20210928163418038.png)
+![image-20210928163418038](https://github.com/AlirisMaurera/springBootComDynamoDB/blob/master/imagens/image-20210928163418038.png?raw=true)
 
-![image-20210928163700724](C:\Users\ti\AppData\Roaming\Typora\typora-user-images\image-20210928163700724.png)
+![image-20210928163700724](https://github.com/AlirisMaurera/springBootComDynamoDB/blob/master/imagens/image-20210928163700724.png?raw=true)
 
 
 
 Assim criamos nosso usuário só terminamos com fazer download das senhas que são como vamos a conectar o projeto à nuvem
 
-![image-20210928164030935](C:\Users\ti\AppData\Roaming\Typora\typora-user-images\image-20210928164030935.png)
+![image-20210928164030935](https://github.com/AlirisMaurera/springBootComDynamoDB/blob/master/imagens/image-20210928164030935.png?raw=true)
 
 
 
